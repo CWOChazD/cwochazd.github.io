@@ -1,3 +1,3 @@
-# Your blog
+# Chaz's fastai Blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+<em>Deep Learning for Coders with fastai & Python: AI Applications Without a PhD</em> convinced me to create this blog.
